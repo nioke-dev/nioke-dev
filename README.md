@@ -49,7 +49,7 @@
     </a>
 </p>
 
-#### 🥈 Statistik Github saya
+#### 📊 My Github Stats
 
 <p align="center">
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=nioke-dev&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
@@ -59,14 +59,7 @@
 <br />
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=nioke-dev&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/nioke-dev/github-readme-stats"><img alt="nioke-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=nioke-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nioke-dev/github-readme-stats"><img alt="nioke-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nioke-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
