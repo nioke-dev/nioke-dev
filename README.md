@@ -63,8 +63,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/nioke-dev/github-readme-stats"><img alt="nioke-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nioke-dev/github-readme-stats"><img alt="nioke-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nioke-dev/github-readme-stats"><img alt="nioke-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=nioke-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nioke-dev/github-readme-stats"><img alt="nioke-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nioke-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
