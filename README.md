@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nioke8090@gmail.com**
 
-- ⚡ Fun fact **Fun fact I play games after coding very often.**
+- ⚡ Fun fact **I play games after coding very often.**
 
 ## 🚀 Languages and Tools:
 
