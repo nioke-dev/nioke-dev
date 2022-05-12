@@ -2,14 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurul Mustofa</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
-
-<h2 align="center">Hello there! IDStack Project. 👋🤓</h2>
 <p align="center">All of source code from me store in here.</p>
-
-<p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</p>
-
 
 ## 🙋‍♂️ About Me
 
@@ -61,15 +54,13 @@
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=nioke-dev&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nurul-mustofa-3ba574218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -80,6 +71,7 @@
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nioke-dev">
 </a>
