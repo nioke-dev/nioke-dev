@@ -50,8 +50,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=nioke-dev&theme=react-dark)
 <br />
-<br />
-<img src="https://github-profile-trophy.vercel.app/?username=nioke-dev&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
