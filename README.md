@@ -45,7 +45,7 @@
 #### 📊 My Github Stats
 
 <p align="center">
-![Nioke's GitHub stats](https://github-readme-stats.vercel.app/api?username=nioke-dev&show_icons=true&bg_color=00000000)
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=nioke-dev&hide_title=false&show_icons=true&theme=radical" alt="aryashah2k" />
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=nioke-dev&theme=react-dark)
